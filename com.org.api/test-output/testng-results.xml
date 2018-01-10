@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5467" started-at="2018-01-08T16:54:52Z" finished-at="2018-01-08T16:54:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5467" started-at="2018-01-08T16:54:52Z" finished-at="2018-01-08T16:54:57Z">
+      <class name="APITesting.com.org.api.NewRequest">
+        <test-method status="PASS" signature="test2()[pri:0, instance:APITesting.com.org.api.NewRequest@6f7fd0e6]" name="test2" duration-ms="5422" started-at="2018-01-08T22:24:52Z" finished-at="2018-01-08T22:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- APITesting.com.org.api.NewRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
